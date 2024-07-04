@@ -1,12 +1,12 @@
 import React from 'react';
-import heroImg from '../../assets/444_1938.jpeg';
+import heroImg from '../../assets/zahoor portfolio.png';
 import styles from './HeroStyles.module.css';
 import linkedInLight from '../../assets/linkedin-light.svg';
 import LinkedInDark from '../../assets/linkedin-dark.svg';
 import GitHubDark from '../../assets/github-dark.svg';
 
 import GitHubLight from '../../assets/github-light.svg';
-import CV from '../../assets/zahoor0624.pdf';
+import CV from '../../assets/zahooruddinzohaib_mohammed_resume.pdf';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import {useTheme} from '../../common/ThemeContext';

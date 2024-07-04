@@ -27,6 +27,7 @@ function Skills() {
           <SkillList src={checkMarkIcon} skill="Git" />
           
         </div>
+        <hr/>
     </section>
 );
 }
