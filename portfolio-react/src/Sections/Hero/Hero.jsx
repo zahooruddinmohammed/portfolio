@@ -1,5 +1,5 @@
 import React from 'react';
-import heroImg from '../../assets/potrait.jpeg';
+import heroImg from '../../assets/444_1938.jpeg';
 import styles from './HeroStyles.module.css';
 import linkedInLight from '../../assets/linkedin-light.svg';
 import LinkedInDark from '../../assets/linkedin-dark.svg';
